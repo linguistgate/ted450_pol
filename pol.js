@@ -1,5 +1,4 @@
 dependencies: [
-    { src: 'plugin/audio-slideshow/slideshow-recorder.js', condition: function( ) { return !!document.body.clas$
     { src: 'plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classLi$
     ],
    audio: {
