@@ -1,0 +1,25 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t reveal_audio-slideshow:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 999
+#+REVEAL_INIT_SCRIPT: "./pol.js"
+#+TITLE: Presentation of Learning
+#+AUTHOR: Matthew Adams
+#+EMAIL: maadams@hightechhigh.org
+#+STARTUP: indent showall
+* Introduction
+* Summary of Project
+#+REVEAL_HTML: <p class="fragment" data-audio-src="audio/test.ogg">
+A sound to play.
+#+REVEAL_HTML: </p>
+* English Language Learning Strategies: General
+* Monitoring Student Learning During Project Execution
+* English Language Learning Scaffolding During Project
+* Reflecting on Project Modifications
